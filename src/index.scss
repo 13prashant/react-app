@@ -13,3 +13,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+// Reset styles
+img {
+  width: 100%;
+}
+
+.carousel img {
+  height: 500px;
+  object-fit: cover;
+}

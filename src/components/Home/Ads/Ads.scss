@@ -1,0 +1,11 @@
+.ads {
+  display: grid;
+  place-items: center;
+}
+
+.ads__image {
+  width: 80%;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 1em;
+}
